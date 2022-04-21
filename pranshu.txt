@@ -1,0 +1,6 @@
+rage=20
+page=20
+shage=20
+vage=10
+sage=21
+vage=30
